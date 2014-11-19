@@ -1,4 +1,4 @@
 derivv-lib
 ==========
 
-Image Processing Library
+Smart Image Processing Library

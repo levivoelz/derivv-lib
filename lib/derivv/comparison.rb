@@ -1,3 +1,5 @@
+require 'mini_magick'
+
 class Comparison
   
   def initialize(original, compressed)
