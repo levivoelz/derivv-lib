@@ -1,4 +1,1 @@
-derivv-lib
-==========
-
-Smart Image Processing Library
+Extends MiniMagick commands with some other goodies thrown in. Work in progress...

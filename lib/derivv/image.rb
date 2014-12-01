@@ -3,7 +3,7 @@ require 'derivv/size'
 require 'derivv/comparison'
 
 class Image
-  attr_reader :file, :basename, :ext, :image, :apples
+  attr_reader :file, :basename, :ext, :image
   attr_accessor :format, :name
   
   def initialize(file, options={})
